@@ -1,0 +1,33 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Shaders\Light.shader">
+    <Files>
+      <File FileName="Assets\Scripts\Main.cs" Line="249" Column="67" />
+      <File FileName="Assets\Scripts\JumpCheck.cs" Line="84" Column="67" />
+      <File FileName="Assets\Scripts\CharMovement.cs" Line="63" Column="20" />
+      <File FileName="Assets\Scripts\DestroyOverTime.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CamMovement.cs" Line="355" Column="83" />
+      <File FileName="Assets\Scripts\ManualHandRotation.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CharFollower.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\WatchFloat.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ZDepthLayer.cs" Line="17" Column="77" />
+      <File FileName="Assets\Scripts\Collectible.cs" Line="21" Column="34" />
+      <File FileName="Assets\Shaders\Backface.shader" Line="1" Column="1" />
+      <File FileName="Assets\Shaders\Light.shader" Line="45" Column="36" />
+      <File FileName="Assets\Shaders\GlobalTileSpace.shader" Line="71" Column="44" />
+      <File FileName="Assets\Scripts\CharParentZone.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Level.cs" Line="15" Column="36" />
+      <File FileName="Assets\Scripts\Volume.cs" Line="54" Column="56" />
+      <File FileName="Assets\Scripts\PauseMenu.cs" Line="23" Column="83" />
+      <File FileName="Assets\Scripts\PauseButton.cs" Line="111" Column="8" />
+      <File FileName="Assets\Shaders\ScreenTrans.shader" Line="100" Column="5" />
+      <File FileName="Assets\Scripts\LCD.cs" Line="28" Column="129" />
+      <File FileName="Assets\Scripts\Subtitles.cs" Line="21" Column="22" />
+      <File FileName="Assets\Scripts\ColorblindTooltipZone.cs" Line="34" Column="51" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
